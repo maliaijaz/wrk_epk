@@ -329,7 +329,7 @@ footer {
 
 @media only screen and (max-width: 600px) {
   .masthead h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     line-height: 10.5rem;
   }
 }
